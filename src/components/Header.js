@@ -5,7 +5,7 @@ export const Header = () => {
 				href="#home"
 				className="m-auto md:mx-0 text-center md:text-left col-start-1 col-end-3 md:col-end-2 row-start-1 row-end-2 md:row-start-1 md:row-end-3 text-3xl md:text-lg uppercase font-extrabold md:py-8 md:px-2"
 			>
-				NeoDev Technologies
+				Neosix Technologies
 			</a>
 
 			<div className="transition ease-in-out scroll-smooth m-auto md:mx-0 col-start-1 col-end-3 md:col-start-2 md:flex md:justify-end row-start-2 row-end-3 md:row-start-1 md:row-end-3 font-medium">
@@ -20,12 +20,6 @@ export const Header = () => {
 					className="hover:-translate-y-2 duration-500 px-1 md:px-2"
 				>
 					Services
-				</a>
-				<a
-					href="#portfolio"
-					className="hover:-translate-y-2 duration-500 px-1 md:px-2"
-				>
-					Portfolio
 				</a>
 				<a
 					href="#team-members"
