@@ -8,12 +8,6 @@ export const ContactUs = () => {
 				Grow your business with Neosix Technologies 👩🏻‍💻
 			</div>
 			<div className="row-start-3 row-end-5 m-auto">
-				<button className="bg-gray-100 hover:bg-gray-200 rounded-md w-28 h-10 border border-gray-400 text-gray-900 font-semibold mx-1 hover:cursor-pointer">
-					<a href="#services">Learn more</a>
-				</button>
-				<button className="bg-gradient-to-r from-gray-900 to-gray-800 rounded-md w-24 h-10 text-gray-50 font-semibold mx-1 hover:cursor-pointer">
-					<a href="#contact-us">Let's talk</a>
-				</button>
 			</div>
 		</div>
 	);
