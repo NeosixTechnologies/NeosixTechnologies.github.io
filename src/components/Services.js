@@ -1,12 +1,13 @@
 export const Services = () => {
 	const services = [
-		"Web app development",
-		"Mobile app development",
+		"Web Application Development",
+		"Mobile Application Development",
 		"Technology Consulting",
 		"Digital transformation",
-		"Big data development",
-		"AI development",
+		"Big Data Development",
+		"AI/ML Development",
 		"Blockchain development",
+		"Workflow Automation"
 	];
 
 	return (

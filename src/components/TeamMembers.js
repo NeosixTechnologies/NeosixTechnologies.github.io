@@ -5,10 +5,6 @@ export const TeamMembers = () => {
 			role: "Chief Executive Officer",
 		},
 		{
-			name: "Waiz Sufri",
-			role: "Chief Operating Officer",
-		},
-		{
 			name: "Haziq Z. Ariffin",
 			role: "Chief Marketing Officer",
 		},
@@ -22,11 +18,11 @@ export const TeamMembers = () => {
 		},
 		{
 			name: "Rasyid Abdullmalek",
-			role: "Chief Information Security Officer",
+			role: "Chief Security Officer",
 		},
 		{
 			name: "Razin Zunidi",
-			role: "Chief Business Development Officer",
+			role: "Chief Development Officer",
 		},
 	];
 
